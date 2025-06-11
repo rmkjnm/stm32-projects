@@ -1,0 +1,20 @@
+# STM32CubeIDE build artifacts
+**/Debug/
+**/Release/
+
+# IDE auto-generated settings (optional to ignore)
+.settings/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnails
+Thumbs.db
+
+# Ignore object files and other intermediates
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.cyclo
