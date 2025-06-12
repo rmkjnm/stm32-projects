@@ -1,0 +1,11 @@
+UART/Debug/
+UART/.settings/
+UART/.vscode/
+*.launch
+*.elf
+*.bin
+*.hex
+*.o
+*.dep
+*.lst
+*.map
